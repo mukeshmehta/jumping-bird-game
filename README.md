@@ -10,5 +10,8 @@ Built using PyGame
 
 
 ![alt text](https://github.com/mukeshmehta/jumping-bird-game/blob/master/flappy-bird/gallery/sprites/message.png)
+
+
 Press SPACE or ↑ to Start/Jump
+
 ![alt text](https://github.com/mukeshmehta/jumping-bird-game/blob/master/flappy-bird/gallery/sprites/screenshot.png)
