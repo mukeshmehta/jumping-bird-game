@@ -1,4 +1,4 @@
-# flappy-bird-game
+# jumping-bird-game
 
 Built using PyGame
 ## 4 main Components:
