@@ -7,4 +7,4 @@ Built using PyGame
 3. Sprites (images)
 4. Sound
 
-This can be converted into an 'exe' file.
+Press SPACE or ↑ to Start/Jump
